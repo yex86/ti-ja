@@ -1,0 +1,21 @@
+<nav>
+	<img id=logo src="images/logo.png">
+ <br>
+ 	<p id=logo_naslov>EMPATIJA</p>
+	<a class=linkovi>Home</a>
+	<a class=linkovi>Education</a>
+	<a class=linkovi>Games</a>
+	<a class=linkovi>Quiz</a>
+	<a class=linkovi>Contact</a>
+	<a class=blinkovi>Log In</a>
+	<a class=blinkovi>Sign In</a>
+	</nav>
+
+<main>	
+  <section id="vrh">
+  	<p>Dobrodosli deco</p>
+  	<p>Evo je sajt za vas</p>
+  	<p>U svetu postoji jedno carstvo<br>u njemu caruje drugarstvo</p>
+  </section>
+  <img id=deca src="images/kids.png">
+</main>
