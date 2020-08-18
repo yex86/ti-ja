@@ -1,5 +1,5 @@
 <nav>
-	<img id=logo src="images/logo.png">
+	<img id=logo src="images/header/logo.png">
  <br>
  	<p id=logo_naslov>EMPATIJA</p>
 	<a class=linkovi>Home</a>
@@ -17,5 +17,5 @@
   	<p>Evo je sajt za vas</p>
   	<p>U svetu postoji jedno carstvo<br>u njemu caruje drugarstvo</p>
   </section>
-  <img id=deca src="images/kids.png">
+  <img id=deca src="images/header/kids.png">
 </main>
